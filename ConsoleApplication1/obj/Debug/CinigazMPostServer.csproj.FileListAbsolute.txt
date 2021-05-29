@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CinigazMPostServer.exe.config
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CinigazMPostServer.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\CinigazMPostServer.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\MPOST.dll
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NetMQ.dll
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.dll
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\AsyncIO.dll
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NetMQ.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NetMQ.xml
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.xml
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\AsyncIO.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\CinigazMPostServer.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\CinigazMPostServer.pdb
